@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @watashinonamaewasaradesu
-- 👀 I’m interested in  aprender linguagens de programação
+- 👀 I’m interested in learn programming languages 
 - 🌱 I’m currently learning HTML / CSS
-- 💞️ Frequentemente estou estudando Inglês, japonês e francês
-- 📫 Você pode me mandar um e-mail se quiser, saraisabele122@gmail.com 
+- 💞️ I'm often studying english, japanese and french
+- 📫 You can send me a e-mail if you want it, it's saraisabele122@gmail.com 
 
 <!---
 watashinonamaewasaradesu/watashinonamaewasaradesu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
