@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @watashinonamaewasaradesu
-- 👀 I’m interested in learn programming languages 
+- 👀 My goal is to become a full stack dev
 - 🌱 I’m currently learning HTML / CSS
 - 💞️ I'm often studying english, japanese and french
 - 📫 You can send me a e-mail if you want it, it's saraisabele122@gmail.com 
