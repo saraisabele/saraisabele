@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saraisabele
-- 👀 My goal is to become a full stack dev
-- 🌱 I’m currently learning HTML / CSS
-- 💞️ I'm often studying english, japanese and french
+- 👀 My goal is to become a backend dev
+- 🌱 I’m graduating from Análise e Desenvolvimento de Sistemas
+- 💞️ I'm often studying english
 - 📫 You can send me a e-mail if you want it, it's saraisabele122@gmail.com 
 
 <!---
