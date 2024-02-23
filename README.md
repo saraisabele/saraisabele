@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saraisabele
-- 👀 My goal is to become a backend developer, i'm actually studying JS and C#
+- 👀 My goal is to become a fullstack developer, i'm actually studying JS and C#
 - 🌱 I’m graduating from Análise e Desenvolvimento de Sistemas
 - 💞️ I'm often studying english
 - 📫 You can send me a e-mail if you want it, it's saraisabele122@gmail.com
